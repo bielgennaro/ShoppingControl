@@ -11,6 +11,5 @@ namespace ShoppingControl.Entities.Mapping
             CreateMap<Seller, SellerDto>()
                 .ReverseMap();
         }
-
     }
 }

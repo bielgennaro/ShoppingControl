@@ -1,5 +1,4 @@
 using ShoppingControl.Components;
-using ShoppingControl.Entities.Mapping;
 
 namespace ShoppingControl
 {

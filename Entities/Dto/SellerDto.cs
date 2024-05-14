@@ -1,6 +1,4 @@
-﻿using Microsoft.Extensions.Diagnostics.HealthChecks;
-
-namespace ShoppingControl.Entities.Dto
+﻿namespace ShoppingControl.Entities.Dto
 {
     public class SellerDto
     {
